@@ -1,7 +1,7 @@
 # 🌟 About Us
-Welcome to EcommER – a cutting-edge ecommerce platform designed as part of the SDA Course Project! 🛍️ Crafted with the robust MERN Stack (MongoDB, Express.js, React.js, Node.js), EcommER delivers a seamless shopping experience for customers and powerful management tools for sellers.
+Welcome to Ecommercece – a cutting-edge Ecommercece platform designed as part of the SDA Course Project! 🛍️ Crafted with the robust MERN Stack (MongoDB, Express.js, React.js, Node.js), Ecommerce delivers a seamless shopping experience for customers and powerful management tools for sellers.
 
-# 🤝 Why Choose EcommER?
+# 🤝 Why Choose Ecommerce?
 🌐 For Shoppers:
 •	🛒 Smooth Shopping Journey: Dive into categories like Electronics, Clothing, Home Essentials, and more.
 •	🔍 Advanced Search: Easily locate your favorite products by name or category.
@@ -20,10 +20,10 @@ ________________________________________
 •	Data Visualization: React Apexcharts
 ________________________________________
 
-# 🚀 Join Us in Revolutionizing Ecommerce!
-EcommER isn't just a project; it's a step toward reimagining the online shopping experience. Built with a commitment to innovation and efficiency, EcommER bridges the gap between sellers and customers, offering a platform that’s reliable, intuitive, and delightful to use.
+# 🚀 Join Us in Revolutionizing Ecommercece!
+Ecommerce isn't just a project; it's a step toward reimagining the online shopping experience. Built with a commitment to innovation and efficiency, Ecommerce bridges the gap between sellers and customers, offering a platform that’s reliable, intuitive, and delightful to use.
 
-# 💡 Explore, Engage, Excel – with EcommER!
+# 💡 Explore, Engage, Excel – with Ecommerce!
 
 # 📂 Mongo DB Screenshot
 ![git](https://github.com/user-attachments/assets/d4c878a2-c9a3-4da3-abfb-979353290012)
